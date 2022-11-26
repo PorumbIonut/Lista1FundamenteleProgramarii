@@ -1,0 +1,15 @@
+/Users/john/Desktop/lista 1/Lista 1/Lista 1/bin/Debug/net7.0/Lista 1
+/Users/john/Desktop/lista 1/Lista 1/Lista 1/bin/Debug/net7.0/Lista 1.deps.json
+/Users/john/Desktop/lista 1/Lista 1/Lista 1/bin/Debug/net7.0/Lista 1.runtimeconfig.json
+/Users/john/Desktop/lista 1/Lista 1/Lista 1/bin/Debug/net7.0/Lista 1.dll
+/Users/john/Desktop/lista 1/Lista 1/Lista 1/bin/Debug/net7.0/Lista 1.pdb
+/Users/john/Desktop/lista 1/Lista 1/Lista 1/obj/Debug/net7.0/Lista 1.csproj.AssemblyReference.cache
+/Users/john/Desktop/lista 1/Lista 1/Lista 1/obj/Debug/net7.0/Lista 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/john/Desktop/lista 1/Lista 1/Lista 1/obj/Debug/net7.0/Lista 1.AssemblyInfoInputs.cache
+/Users/john/Desktop/lista 1/Lista 1/Lista 1/obj/Debug/net7.0/Lista 1.AssemblyInfo.cs
+/Users/john/Desktop/lista 1/Lista 1/Lista 1/obj/Debug/net7.0/Lista 1.csproj.CoreCompileInputs.cache
+/Users/john/Desktop/lista 1/Lista 1/Lista 1/obj/Debug/net7.0/Lista 1.dll
+/Users/john/Desktop/lista 1/Lista 1/Lista 1/obj/Debug/net7.0/refint/Lista 1.dll
+/Users/john/Desktop/lista 1/Lista 1/Lista 1/obj/Debug/net7.0/Lista 1.pdb
+/Users/john/Desktop/lista 1/Lista 1/Lista 1/obj/Debug/net7.0/Lista 1.genruntimeconfig.cache
+/Users/john/Desktop/lista 1/Lista 1/Lista 1/obj/Debug/net7.0/ref/Lista 1.dll
